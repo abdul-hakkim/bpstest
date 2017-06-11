@@ -59,7 +59,7 @@
      
         
         <bpws:wait>  
-<bpws:for><![CDATA['PT70S']]></bpws:for>  
+<bpws:for><![CDATA['PT80S']]></bpws:for>  
 </bpws:wait> 
 
         <reply name="end" partnerLink="helloPartnerLink" portType="test:HelloPortType" operation="hello" variable="myVar" />
